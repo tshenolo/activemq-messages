@@ -22,7 +22,7 @@ public class ActivemqProducer {
 	private static String QueueName = "QueueName"; // change queue name
 
 	/**
-	 * Sends a message to a queue.
+	 * Sends a message to a queue or topic.
 	 * 
 	 * @param args
 	 * @throws Exception

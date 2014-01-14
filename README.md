@@ -1,13 +1,13 @@
 ### Activemq Producer and Consumer
 
 #### Producer
-Sends a message to a queue.
+Sends a message to a queue or topic.
 
 #### Consumer
 Consumes a message from a queue.
 
 #### Usage
-Can be used with [Fuse ESB](http://fusesource.com/google-landing-pages/apache-servicemix-download/)
+Can be used with [Fuse ESB](http://www.jboss.org/products/fuse)
 
 ![Queue](http://www.tmodev.com/images/queue.png)
 

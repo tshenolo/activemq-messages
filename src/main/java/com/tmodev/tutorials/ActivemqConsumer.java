@@ -23,7 +23,7 @@ public class ActivemqConsumer {
 	private static String QueueName = "QueueName";
 	
 	/**
-	 * Consumes a message from a queue.
+	 * Consumes a message from a queue or topic.
 	 * 
 	 * @param args
 	 * @throws Exception
